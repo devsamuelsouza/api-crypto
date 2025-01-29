@@ -68,6 +68,14 @@ Verifique o funcionamento do sistema realizando os seguintes testes:
 *Dica:* Explore possíveis erros ou melhorias na aplicação.  
 *Obs:* A aplicação aceita apenas requisições do tipo GET
 
+## **📡 Online**
+
+- Caso queira acessar API de forma online, envie a requisição para:
+
+```bash
+    https://api-crypto-q3f7.onrender.com/cotacao/coins
+```
+
 ## **🛠️ Tecnologias e Ferramentas Utilizadas**  
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:  
 
